@@ -93,7 +93,7 @@
                                             <h2 class="text-xl font-semibold text-black dark:text-white">Documentation Este es mi primer cambio</h2>
 
                                             <p class="mt-4 text-sm/relaxed">
-                                                AHORA ESTE ES EL CAMBIO PARA EL OTRO Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                                AHORA ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                             </p>
                                         </div>
                                     </div>
