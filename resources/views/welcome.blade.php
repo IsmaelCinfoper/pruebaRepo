@@ -93,8 +93,13 @@
                                             <h2 class="text-xl font-semibold text-black dark:text-white">Documentation Este es mi primer cambio este es un buen cambio mientrS RAM$ TRABAJA</h2>
 
                                             <p class="mt-4 text-sm/relaxed">
+<<<<<<< HEAD
                                                 AHORA ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO AHORA SI PERO TAMBIEN DESDE LA MAIN/////Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                                 AHORA ESTE ES EL BUEN CAMBIO 11MAIN11ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO/ AHORA ES CUANDO SE LIA GORDA *** Continuanmo liandola en la RAM3 esto no para Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+=======
+                                                AHORARAM5 ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO AHORA SI PERO TAMBIEN DESDE LA MAIN/////Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                                AHORA ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO/ AHORA ES CUANDO SE LIA GORDA *** Continuanmo liandola en la RAM3 esto no para Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+>>>>>>> ram5
                                             </p>
                                         </div>
                                     </div>
