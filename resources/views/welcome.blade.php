@@ -94,7 +94,7 @@
 
                                             <p class="mt-4 text-sm/relaxed">
                                                 AHORA ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO AHORA SI PERO TAMBIEN DESDE LA MAIN/////Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
-                                                AHORA ESTE ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO/ AHORA ES CUANDO SE LIA GORDA *** Continuanmo liandola en la RAM3 esto no para Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                                AHORA ESTE ES EL BUEN CAMBIO 11MAIN11ES EL CAMBIO PARA EL OTRO \ SEGUIMOS TRABAJANDO/ AHORA ES CUANDO SE LIA GORDA *** Continuanmo liandola en la RAM3 esto no para Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                             </p>
                                         </div>
                                     </div>
