@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\PDFController;
 use App\Http\Controllers\TicketController;
+use App\Http\Controllers\WeatherController;
 use Illuminate\Support\Facades\Route;
 
 // Ruta principal - Aplicación del Tiempo
@@ -22,3 +23,6 @@ Route::prefix('tickets')->group(function () {
 
 // Ruta para generar PDF
 Route::get('generate-pdf', [PDFController::class, 'generatePDF'])->name('generate.pdf');
+
+// API del tiempo
+Route::get('api/weather/porcuna', [WeatherController::class, 'porcuna'])->name('weather.porcuna');
