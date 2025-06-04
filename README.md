@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Documentación adicional
+
+Se incluyen archivos en el directorio `docs/` con información sobre el proyecto y un nuevo endpoint de la API del tiempo para Porcuna.
